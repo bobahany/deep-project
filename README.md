@@ -5,7 +5,7 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 The MNIST dataset is used for this project. (It is automatically downloaded via the torchvision library.)
 
 Official Link: http://yann.lecun.com/exdb/mnist/
-Note: The project code automatically downloads this dataset, so no manual download is required.
+Note: The project code automatically downloads this dataset, so no manual download is required 
 
 3. Data Preprocessing
 Normalization: Applied using transforms.Normalize((0.1307,), (0.3081,)) based on the global mean and standard deviation of the MNIST dataset to speed up convergence.
