@@ -43,7 +43,7 @@ Training vs Validation Curves
 8. Instructions for Running the Project
 Prerequisites: Ensure you have Python 3.x installed.
 Clone the repository:
-git clone [<YOUR_REPO_LINK>cd <YOUR_REPO_NAME>](https://github.com/bobahany/deep-project/edit/main/README.md)
+git clone (https://github.com/bobahany/deep-project/edit/main/README.md)
 Install required libraries: It is recommended to use the provided requirements file.
 pip install -r requirements.txt
 Run the code: Open the Jupyter Notebook / Google Colab file (.ipynb) and run all cells sequentially. The dataset will download automatically.
